@@ -1,6 +1,6 @@
 # David Brunik
 
-CFA charterholder and FP&A professional building at the intersection of finance, AI agents, and local AI infrastructure. Based in Minneapolis.
+CFA charterholder and finance professional building AI agents, self-hosted infrastructure, and shipped products. Based in Minneapolis.
 
 **What I'm building:**
 
