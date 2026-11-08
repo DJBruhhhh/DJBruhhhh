@@ -1,6 +1,8 @@
 # David Brunik
 
-CFA charterholder and finance professional building AI agents, self-hosted infrastructure, and shipped products. Based in Minneapolis.
+CFA charterholder and finance professional building AI agents, self-hosted infrastructure, and shipped products. Based in New York City.
+
+I have 10+ years of personal investing and stock-research experience, grounded in fundamental equity research and a long-term lens that considers material sustainability and governance factors.
 
 **What I'm building:**
 
